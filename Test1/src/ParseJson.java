@@ -8,6 +8,7 @@ import javax.json.JsonArray;
 import javax.json.JsonObject;
 import javax.json.JsonReader;
 
+//example parse
 public class ParseJson {
 
 	public static void main(String[] args) throws IOException {
