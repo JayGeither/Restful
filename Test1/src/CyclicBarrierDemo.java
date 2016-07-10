@@ -6,7 +6,7 @@ public class CyclicBarrierDemo {
 	public static class Task implements Runnable {
 
 		
-		//This is an example
+		//This is an example test
 		CyclicBarrier barrier = new CyclicBarrier(3);
 
 		public Task(CyclicBarrier barrier) {
